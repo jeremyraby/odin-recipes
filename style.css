@@ -9,14 +9,10 @@
   font-family: "Trebuchet MS", 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-.h1 {
-
-}
-
 .h2 {
-
+  background-color: blueviolet;
 }
 
 .h3 {
-
+  color: cornflowerblue;
 }
